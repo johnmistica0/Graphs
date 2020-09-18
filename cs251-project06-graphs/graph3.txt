@@ -1,0 +1,20 @@
+A
+B
+D
+C
+X
+E
+#
+A B 100
+B A 80
+A D 115
+B D 12
+B C 20
+C E 29
+E C 29
+D C 7
+C X 2000
+E A 999
+X D 2900
+C B 19
+#

@@ -1,0 +1,44 @@
+A
+B
+D
+C
+F
+E
+G
+H
+W
+X
+Y
+Z
+K
+L
+#
+A B 100
+B A 80
+A D 115
+B D 12
+B C 20
+C E 29
+E C 29
+D C 7
+C F 2000
+E A 999
+F D 2900
+C B 19
+G H 1
+H W 2
+H X 4
+W X 1
+W Y 98
+X Z 97
+Y Y 6
+Z Z 7
+Y Z 3
+Z Y 2
+A K 2020
+F L 1
+L K 1
+G L 1
+D L 2007
+G Y 99
+#
